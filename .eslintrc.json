@@ -16,12 +16,15 @@
     },
     "rules": {
         "arrow-body-style": "warn",
+        "arrow-parens": "off",
         "comma-dangle": "warn",
         "no-const-assign": "warn",
         "no-this-before-super": "warn",
         "no-undef": "warn",
         "no-unreachable": "warn",
         "react/jsx-filename-extension": "off",
+        "react/prop-types": "off",
+        "react/no-unescaped-entities": "warn",
         "linebreak-style":"off",
         "no-unused-vars": [
             "error",
