@@ -11,9 +11,6 @@ const Header = () => (
       <li>
         <NavLink to="/create" href="/create" activeClassName="is-active">Create Expense</NavLink>
       </li>
-      <li>
-        <NavLink to="/help" href="/help" activeClassName="is-active">Help</NavLink>
-      </li>
     </ul>
   </header>
 );
