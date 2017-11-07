@@ -1,8 +1,5 @@
-# Webpack bundled files
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
+# Public dist files
+public/dist/
 
 # Logs
 logs
